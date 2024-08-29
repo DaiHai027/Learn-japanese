@@ -27,7 +27,7 @@ export default function Home() {
         }}
       />
       <GithubCorner
-        href="https://github.com/willianjusten/learn-japanese"
+        href="https://github.com/DaiHai027/Learn-japanese"
         octoColor="#06092b"
         bannerColor="#f231a5"
       />

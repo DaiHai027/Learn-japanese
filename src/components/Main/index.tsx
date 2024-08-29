@@ -65,7 +65,7 @@ const Main = () => {
       <S.Footer>
         Made with <a href="https://nextjs.org/">NextJS</a> and
         <span> 愛</span> by{' '}
-        <a href="https://willianjusten.com.br">Willian Justen</a>
+        <a href="https://my-portfolio-mu-azure.vercel.app">Dai Vo</a>
       </S.Footer>
     </S.Wrapper>
   )
